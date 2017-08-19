@@ -1,5 +1,5 @@
 # SSRAD
-## SSRAD Repeat Project
+
 Project was created using the Spring Tool Suite for Eclipse. Project was tested using a Wampserver 3.0.6 (x64) running MySQL 5.7.14 on Google Chrome.
 
 ### To run the project:
